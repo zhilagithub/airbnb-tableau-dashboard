@@ -1,4 +1,37 @@
 
 
+https://public.tableau.com/app/profile/zhila.mofidi1641/viz/AnalyzingAirbnbData_17260289770440/Dashboard1
 
-View my Tableau Project on Tableau Public: Video Game Sales Dashboard
+
+
+ analyzing Airbnb listings to uncover insights such as pricing trends, host activity, and geographic distribution.
+
+### 🧭 Overview
+Using a dataset of Airbnb listings (locations, pricing, host details, reviews, etc.), this Tableau dashboard helps users:
+- **Visualize pricing trends** across neighborhoods (e.g., average nightly rates, price distributions).
+- **Explore geographic patterns** with map plots pinpointing listing locations.
+- **Compare host performance** based on number of listings and average ratings.
+- **Analyze review activity** to identify top-rated listings and areas.
+
+### ⚙️ Features
+- **Interactive filters**: Narrow down data by neighborhood, price range, room type, host type, and more.
+- **Dynamic tooltips**: Reveal listing details (e.g., price, rating, number of reviews) on hover.
+- **Dashboard components**:  
+   - Map of listings with hover-enabled insights  
+   - Bar charts and histograms for price and host comparisons  
+   - Time-series or summary charts (if included)  
+   - KPI indicators (e.g., avg. price, avg. rating)
+
+### 📝 Purpose
+- Demonstrates data-driven storytelling with visual analytics.
+- Helps users uncover pricing patterns and active host behavior in the Airbnb ecosystem.
+- Serves as a portfolio piece showcasing proficiency in Tableau and data exploration.
+
+### ▶️ View It Live
+Access the interactive version here:  
+https://public.tableau.com/app/profile/zhila.mofidi1641/viz/AnalyzingAirbnbData_17260289770440/Dashboard1
+
+---
+
+
+
