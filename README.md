@@ -1,3 +1,5 @@
+
+
 # Airbnb Listings Analysis — Tableau Dashboard
 
 ## Project Overview
@@ -8,34 +10,34 @@ The interactive dashboard provides a visual overview of how Airbnb prices vary b
 
 ## Business Questions
 
-- How does average listing price vary by number of bedrooms?
-- Which ZIP codes have the highest average Airbnb prices?
-- How are Airbnb listings geographically distributed?
-- How do listing prices change over time?
-- How many listings are available for different bedroom counts?
+* How does average listing price vary by number of bedrooms?
+* Which ZIP codes have the highest average Airbnb prices?
+* How are Airbnb listings geographically distributed?
+* How do listing prices change over time?
+* How many listings are available for different bedroom counts?
 
 ## Dashboard Features
 
 The Tableau dashboard includes:
 
-- **Average Price by Bedroom** — compares average listing prices across bedroom counts.
-- **Listings by Bedroom Count** — shows the number of available listings by property size.
-- **Price by ZIP Code** — compares average prices across geographic areas.
-- **Geographic Map** — displays Airbnb listings across ZIP codes.
-- **Weekly Price Trend** — shows how listing prices change throughout the year.
+* **Average Price by Bedroom** — compares average listing prices across bedroom counts.
+* **Listings by Bedroom Count** — shows the number of available listings by property size.
+* **Price by ZIP Code** — compares average prices across geographic areas.
+* **Geographic Map** — displays Airbnb listings across ZIP codes.
+* **Weekly Price Trend** — shows how listing prices change throughout the year.
 
 ## Tools Used
 
-- Tableau
-- Data Visualization
-- Geographic Analysis
-- Interactive Dashboard Development
+* Tableau
+* Data visualization
+* Geographic analysis
+* Interactive dashboards
 
 ## Dataset
 
 The project uses the **Airbnb Listings 2016 Dataset** available on Kaggle.
 
-**Data Source:**  
+**Data Source:**
 https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
 ## View Interactive Dashboard
@@ -53,3 +55,12 @@ airbnb-tableau-dashboard/
 ├── images/
 │   └── airbnb_dashboard.png
 └── README.md
+```
+
+## Project Purpose
+
+This project demonstrates the use of Tableau for exploratory analysis, geographic visualization, dashboard development, and communicating business insights from structured data.
+
+## Acknowledgment
+
+This project was completed by following an Alex The Analyst Tableau tutorial as part of my Tableau training. I recreated the dashboard to develop hands-on experience with Tableau data visualization, geographic analysis, and dashboard development.
