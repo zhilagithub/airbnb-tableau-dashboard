@@ -1,41 +1,63 @@
-Here is the the raw data from kaggle  :https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
 
+## Project Overview
 
+This project analyzes Airbnb listing data using Tableau to explore pricing patterns, listing characteristics, and geographic differences.
 
-My dashboard :
+The interactive dashboard provides a visual overview of how Airbnb prices vary by bedroom count, ZIP code, and time.
+
+## Business Questions
+
+* How does average listing price vary by number of bedrooms?
+* Which ZIP codes have the highest average Airbnb prices?
+* How are Airbnb listings geographically distributed?
+* How do listing prices change over time?
+* How many listings are available for different bedroom counts?
+
+## Dashboard Features
+
+The Tableau dashboard includes:
+
+* **Average Price by Bedroom** — compares average listing prices across bedroom counts.
+* **Listings by Bedroom Count** — shows the number of available listings by property size.
+* **Price by ZIP Code** — compares average prices across geographic areas.
+* **Geographic Map** — displays Airbnb listings across ZIP codes.
+* **Weekly Price Trend** — shows how listing prices change throughout the year.
+
+## Tools Used
+
+* Tableau
+* Data visualization
+* Geographic analysis
+* Interactive dashboards
+
+## Dataset
+
+The project uses the **Airbnb Listings 2016 Dataset** available on Kaggle.
+
+**Data Source:**
+https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+
+## View Interactive Dashboard
+
+View the full interactive dashboard on Tableau Public:
+
 https://public.tableau.com/app/profile/zhila.mofidi1641/viz/AnalyzingAirbnbData_17260289770440/Dashboard1
 
+## Repository Structure
 
+```text
+airbnb-tableau-dashboard/
+├── dashboard/
+│   └── analyzing_airbnb_data.twbx
+├── images/
+│   └── airbnb_dashboard.png
+└── README.md
+```
 
- analyzing Airbnb listings to uncover insights such as pricing trends, host activity, and geographic distribution.
+## Project Purpose
 
-### 🧭 Overview
-Using a dataset of Airbnb listings (locations, pricing, host details, reviews, etc.), this Tableau dashboard helps users:
-- **Visualize pricing trends** across neighborhoods (e.g., average nightly rates, price distributions).
-- **Explore geographic patterns** with map plots pinpointing listing locations.
-- **Compare host performance** based on number of listings and average ratings.
-- **Analyze review activity** to identify top-rated listings and areas.
-
-### ⚙️ Features
-- **Interactive filters**: Narrow down data by neighborhood, price range, room type, host type, and more.
-- **Dynamic tooltips**: Reveal listing details (e.g., price, rating, number of reviews) on hover.
-- **Dashboard components**:  
-   - Map of listings with hover-enabled insights  
-   - Bar charts and histograms for price and host comparisons  
-   - Time-series or summary charts (if included)  
-   - KPI indicators (e.g., avg. price, avg. rating)
-
-### 📝 Purpose
-- Demonstrates data-driven storytelling with visual analytics.
-- Helps users uncover pricing patterns and active host behavior in the Airbnb ecosystem.
-- Serves as a portfolio piece showcasing proficiency in Tableau and data exploration.
-
-### ▶️ View It Live
-Access the interactive version here:  
-https://public.tableau.com/app/profile/zhila.mofidi1641/viz/AnalyzingAirbnbData_17260289770440/Dashboard1
-
----
+This project demonstrates the use of Tableau for exploratory analysis, geographic visualization, dashboard development, and communicating business insights from structured data.
 
 
 
