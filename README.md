@@ -51,9 +51,10 @@ https://public.tableau.com/app/profile/zhila.mofidi1641/viz/AnalyzingAirbnbData_
 ```text
 airbnb-tableau-dashboard/
 ├── dashboard/
-│   └── analyzing_airbnb_data.twbx
+│   └── README.md
 ├── images/
 │   └── airbnb_dashboard.png
+├── .gitattributes
 └── README.md
 ```
 
